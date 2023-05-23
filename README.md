@@ -17,7 +17,7 @@ This project has some dependencies that you need to install for it to work prope
 
 To install the required packages, run the following command:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 Note: It's recommended to use a Python virtual environment to prevent conflicts with other projects.
 
