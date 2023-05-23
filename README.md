@@ -21,6 +21,10 @@ To install the required packages, run the following command:
 
 Note: It's recommended to use a Python virtual environment to prevent conflicts with other projects.
 
+### Performance Requirements:
+
+This application performs real-time object detection, which is a computationally intensive task. It's highly recommended to run this application on a system with a dedicated GPU. Running it on a system without a GPU may degrade the performance and the quality of results.
+
 
 ### Testing
 
